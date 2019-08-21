@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Omar's WEB120 Final Projrct -Apartment!</title>
+    <meta name="viewport" content="width=device-width" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta charset="utf-8">
+    <script src="https://use.fontawesome.com/6a71565c22.js"></script>
+    <link rel="stylesheet" href="css/nav.css" />
+    <link rel="stylesheet" href="css/finalproject.css" />
+    <link rel="stylesheet" href="css/form.css" />
+</head>
+
+<body>
+<!-- START WRAPPER -->
+<main class="wrapper">
+<header>
+  <h1><a href="index.php"><i class="logo fa fa-home"></i>Omar Final Project Website.</a></h1>
+  <nav>
+    <ul class="topnav" id="myTopnav">
+      <li><a href="index.php" class="selected">Home</a></li>
+      <li><a href="big/index.php">Big</a></li>
+      <li><a href="rm/index.php">Responsive vs Mobile</a></li>
+     <li><a href="gal/index.php">Galleries</a></li>
+     <li><a href="fl/index.php">Flexbox</a></li>
+     <li><a href="shopping/index.php">Shopping Cart</a></li>
+      <li><a href="contactme.php">Contact omar</a></li>
+      <li class="icon"> <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a> </li>
+    </ul>
+  </nav>
+</header>
+        
+<!-- START LEFT COL -->
+<section>
+ <h2 class="pageID">Home</h2>
